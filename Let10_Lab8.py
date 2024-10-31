@@ -37,7 +37,7 @@ def disneyApi():
 #pull data by youtube api
 def youtubeApi():
     #api key
-    API_KEY = "AIzaSyDV0cSu-cRaia6FM7i-ijAusY4KOZs2bXE"
+    API_KEY = ""
     CHANNEL_ID = "UC79Gv3mYp6zKiSwYemEik9A" #channel id for DataCamp channel
     #playlist for uploads video from DataCamp
     PLAYLIST_ID = "UU79Gv3mYp6zKiSwYemEik9A"
